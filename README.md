@@ -1,4 +1,4 @@
-Hi 👋 My name is Jaideep Sharma
+Hi there, I'm Jaideep 👋
 ===============================
 
 Full Stack Developer
