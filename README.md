@@ -1,9 +1,12 @@
-Hi there, I'm Jaideep 👋
-===============================
 
-Full Stack Developer
+
+Hi there, I'm Jaideep
 --------------------
 
-* 🌍  I'm based in Hyderabad, India
-* ✉️  You can contact me at [jaideep0001.sharma@gmail.com](mailto:jaideep0001.sharma@gmail.com)
-* ⚡  Currently working on React project
+
+Currently working as a Software Developer
+
+Open to working in new technologies, and collaborations. 
+
+You can reach me at jaideep0001.sharma@gmail.com
+
